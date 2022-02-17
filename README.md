@@ -1,9 +1,13 @@
-### Hi there 👋
+# Hello people 👋  I'm Chris Arridge, a coder, Space Scientist and trainee Psychotherapist
+
+<img src="assets/top.gif"/>
+
 
 <!--
 **chrisarridge/chrisarridge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-Here are some ideas to get you started:
+<h2>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +17,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
