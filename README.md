@@ -4,7 +4,7 @@ I'm Chris Arridge, a coder, Space Scientist and trainee Psychotherapist. 😄 Pr
 <hr/>
 
 ## Bio
-* 🔭 Working On Hybrid kinetic ion simulations of Jupiter's magnetosphere with [@joshwiggs](https://github.com/joshwiggs) :purple_circle: Planetary rings with [@bronislawszerszynski](https://github.com/bronislawszerszynski)/[@apatel245](https://github.com/apatel245) :purple_circle: Cassini data at Saturn with [@James-Pearson](https://github.com/James-Pearson) :purple_circle: Z80-based retro computer.
+* 🔭 Working On Hybrid kinetic ion simulations of Jupiter's magnetosphere with [@joshwiggs](https://github.com/joshwiggs) and [@GeorgeGreenyer](https://github.com/GeorgeGreenyer) :purple_circle: Planetary rings with [@bronislawszerszynski](https://github.com/bronislawszerszynski) :purple_circle: Z80-based retro computer  :purple_circle: MHD simulations at Saturn with [@GeorgeChira](https://github.com/GeorgeChira).
 * 🌱 Learning all about open source and digital hardware design.
 * :hammer: Usually found using ``.py`` ``.c`` ``.cpp`` ``.m`` ``.pde`` ``.js``.
 * 📫 Contact me: <a href="http://www.twitter.com/chrisarridge"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height=24/> <a href="http://www.instagram.com/chrisarridge"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height=24/></a></a> <a href="http://www.linkedin.com/in/chrisarridge"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=24/></a>
