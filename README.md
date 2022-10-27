@@ -1,6 +1,6 @@
 # Hello people 👋  
 <img src="assets/top.gif"/>
-I'm Chris Arridge, a coder, Space Scientist and trainee Psychotherapist. 😄 Pronouns: He/His/Him.
+I'm Chris Arridge, a coder, Space Scientist and Psychotherapist. 😄 Pronouns: He/His/Him.
 <hr/>
 
 ## Bio
