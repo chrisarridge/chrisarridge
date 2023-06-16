@@ -13,12 +13,3 @@ I'm Chris Arridge, a coder, Space Scientist and Psychotherapist. 😄 Pronouns: 
 * ⚡ Fun fact: I also swing dance.
 
 <hr/>
-
-## Highlighted Repos
-<a href="https://github.com/chrisarridge/Ikuchi"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chrisarridge&repo=Ikuchi&theme=merko"/></a>
-<a href="https://github.com/chrisarridge/Zool"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chrisarridge&repo=Zool&theme=merko"/></a>
-
-<hr/>
-
-## Stats
-![Chris' GitHub stats](https://github-readme-stats.vercel.app/api?username=chrisarridge&show_icons=true&theme=merko&count_private=true)
